@@ -1,0 +1,32 @@
+# Preface
+
+Consider the below for a moment -
+
+* How about speeding up your websites to load in less than a second?
+* What if you do not need to worry about security - for ever? (well, we will come back to that)
+* You can do speedup your site and improve security for free using world-class infrastructure; the same infrastructure that can support thousands or hundreds of thousands of your users?
+* What if you can do all the stuff yourself with minimal technology knowledge and don't need to pay anyone?
+
+You save what - $20, %50, $1000 per month?
+
+Well, I am delighted to report that such a tool exists since for ever. Although it has been quite popular in developer circles, the platform does not get the same recognition it deserves from anyone else.
+
+That platform is [Jekyll](https://jekyllrb.com).
+
+Wordpress has been my go-to friend for all blogs and even complex websites. It was a delight to just do a two minute install, drag and drop components to create a decent site, and go live within a day. Revolutionary - there are no doubts about that. 
+
+However, I was bogged down with performance issues. I could not afford a decent enough host (or buy virtual private servers - VPS) due to budgetary constraints. Serving the content faster all over the globe was an issue - despite a well-known content delivery network. Wordpress had to do a lot of work to fetch data from database, and I respect that. But, seeing all this work take painful seconds to load a simple blog page was frustrating.
+
+It was at that point I started considering alternate platforms (Ghost?), or move to a completely static or what are known as headless CMS platform. After weighing out the big and small players - I decided to invest more time on Jekyll, the uncrowned king of static sites. Jekyll had good number of themes and examples, good community - I was bowled over.
+
+Jekyll comes with good tutorials and content, and a great community that supports other users. But, I wanted to specifically target a non-technical or a "semi-technical" (is that a word?) user with this book. I've this ambition to put Jekyll in front of millions more, and at the least consider it as an option before moving on elsewhere. I've this ambition to get millions of users to have their own secure, fast blogs and websites - without paying a dime. And, it goes without saying that I also hope to test github.io to the extreme.
+
+This book was started by Prashanth Krishnamurthy. However it stands upon the shoulders of giants including many contributors. Provide any feedback through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues), Twitter(@technosanct), or on the [website](https://technosanct.com). The first option is recommended.
+
+The book is available at -
+
+* Download PDF/EMOBI version of the book on [LeanPub](https://leanpub.com/levelup-your-websites-using-jekyll/)
+* Refer content at [GitHub](https://github.com/prashanth1k/levelup-your-sites-using-jekyll)
+
+The book is and will be free till the end of universe. It is licensed under a Creative Commons Attribution 4.0 International License. 
+You can contribute and make the book your own at the Github link provided above.Know all contributors who have made this book invaluable at https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors.
