@@ -1,3 +1,6 @@
-preface.txt
-introduction.txt
-get-started.txt
+preface.md
+introduction.md
+setup.md
+create-website.md
+create-pages.md
+create-edit-posts.md
