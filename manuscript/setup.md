@@ -3,7 +3,7 @@ We will quickly go through setting up of things required for Jekyll.
 
 ## Create GitHub Account
 Head over to [GitHub](https://github.com/). 
-![Signup for GitHub](images/create-github-account.jpg)
+![Signup for GitHub](resources/images/create-github-account.jpg)
 
 Fill up three fields, and hit sign up.
  - __Username:__ preferably, choose the user name same as the website name. For example: if you want your website to be "techformist", you want to create the account as "techformist". This is important if you are going to have a website address like "techformist.github.io". If you don't mind getting your own domain, you can fancy any name here.

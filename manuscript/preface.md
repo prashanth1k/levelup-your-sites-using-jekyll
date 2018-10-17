@@ -35,4 +35,4 @@ You can contribute and make the book your own at the Github link provided above.
 This book was started by Prashanth Krishnamurthy. However, it stands on the shoulders of giants including many contributors. Provide any feedback through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues). Drop in a line or two on Twitter(@techformist).
 
 If this book has helped you, consider [buying the book on LeanPub](https://leanpub.com/levelup-your-websites-using-jekyll). Alternatively [feed me caffeine](https://ko-fi.com/prashanth).
-![coffee](images/coffee.jpg)
+![coffee](resources/images/coffee.jpg)

@@ -34,10 +34,10 @@ If you want more functionality offered by dynamic sites, consider-
 
 ## What do you need to get started on Jekyll?
 
-__Internet connection__
+### Internet connection
 Ha!
 
-__Time__
+### Time
 Ha, again.
 You will need to spend 30-60 min for a world class blog!
 
