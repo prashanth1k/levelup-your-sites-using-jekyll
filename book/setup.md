@@ -1,12 +1,15 @@
 # Setup Everything
 We will quickly go through setting up of things required for Jekyll.
 
+
 ## Create GitHub Account
 Head over to [GitHub](https://github.com/). 
+
 ![Signup for GitHub](resources/images/create-github-account.jpg)
 
+
 Fill up three fields, and hit sign up.
- - __Username:__ preferably, choose the user name same as the website name. For example: if you want your website to be "techformist", you want to create the account as "techformist". This is important if you are going to have a website address like "techformist.github.io". If you don't mind getting your own domain, you can fancy any name here.
+ - __Username:__ preferably, choose the user name same as the website name. For example: if you want your website to be at "https://techformist.github.io", you want to create the account as "techformist". This is important if you are going to have a website address like "techformist.github.io". If you don't mind getting your own domain, you can fancy any name here.
  - __Email:__ your email
  - __Password:__ password123
 
@@ -39,6 +42,7 @@ You can "hide" your underlying site in three major ways-
  - Pay for [GitHub Developer account](https://github.com/pricing) ($7/mo - free for students). Make your content private and expose it only through your website!
 
 We will go over the first two options in brief, but I recommend you to continue through this book by using a 'public repository' (= folder) on GitHub.
+
 
 ## Domain (Optional)
 If you don't mind spending $1 to ~$10 per year, you can get any GitHub account and get started. The name in GitHub does not matter because you will point your chosen domain name to the GitHub repository.
