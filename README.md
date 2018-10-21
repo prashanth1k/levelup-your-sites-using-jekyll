@@ -33,15 +33,15 @@ We go through the exact steps of creating a website here. Join me as I create an
 
 ## Table of Contents -
 
-[Preface](../preface.md)
-[Introduction](../introduction.md)
-[Setup Everything](../setup.md)
-[Create Website](../create-website.md)
-[Create Pages](../create-pages.md)
-[Create Posts](../create-edit-posts.md)
+1. [Preface](./book/preface.md)
+2. [Introduction](./book/introduction.md)
+3. [Setup Everything](./book/setup.md)
+4. [Create Website](./book/create-website.md)
+5. [Create Pages](./book/create-pages.md)
+6. [Create Posts](./book/create-edit-posts.md)
 
 
 ---
-[Home](../README.md)
+[Home](./README.md)
 
-[ Next >> ](../preface.md)
+[ Next >> ](./book/preface.md)

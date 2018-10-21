@@ -43,4 +43,4 @@ If this book has helped you, consider [buying the book on Selz](https://selz.co/
 ---
 [Home](../README.md)
 
-[ Previous >> ](../readme.md) | [ Next >> ](../introduction.md)
+[ Previous >> ](./readme.md) | [ Next >> ](./introduction.md)
