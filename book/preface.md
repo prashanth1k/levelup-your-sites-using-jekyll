@@ -1,3 +1,4 @@
+
 # Preface
 
 Consider the below for a moment -
@@ -28,9 +29,9 @@ The book is available at these locations-
 * [GitHub](https://github.com/prashanth1k/levelup-your-sites-using-jekyll). You can copy any or all content from GitHub.
 * Download PDF/EMOBI version of the book on [Selz](https://selz.co/41h2dvHir). Appreciate your support.
 
-
 The book is and will be free till the end of universe. It is licensed under a Creative Commons Attribution 4.0 International License. 
 You can contribute and make the book your own at the Github link provided above.Know all contributors who have made this book invaluable at https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors.
+
 
 ## Get in Touch
 This book was started by Prashanth Krishnamurthy. However, it stands on the shoulders of giants including many contributors. Provide any feedback through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues). Drop in a line or two on Twitter(@techformist).
@@ -40,8 +41,5 @@ If this book has helped you, consider [buying the book on Selz](https://selz.co/
 ![coffee](resources/images/coffee.jpg)
 
 
----
-[Home](../README.md)
 
-| [ << Previous ](./readme.md) | [ Next >> ](./introduction.md) |
-|------------------------------|--------------------------------|
+---

@@ -1,6 +1,0 @@
-preface.md
-introduction.md
-setup.md
-create-website.md
-create-pages.md
-create-edit-posts.md

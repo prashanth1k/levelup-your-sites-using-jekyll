@@ -9,7 +9,6 @@ Are you looking to create a website? Consider this -
 - What if you could do all this for **free**?
 
 
-
 Jekyll is the solution that can do all this and more. And, this is a book that provides a concise, "follow me" instructions that help you to setup your blog or website quickly using Jekyll.
 
 1. No programming required
@@ -23,12 +22,7 @@ Create fast, secure websites, and host your sites/blog on world-class infrastruc
 - Open an issue to provide feedback. 
 
 
-This book was started by Prashanth Krishnamurthy [@techformist](https://twitter.com/techformist), but stands on the good work of many. 
-
-Full list of contributors at: https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors
-
-
-We go through the exact steps of creating a website here. Join me as I create an awesome website by changing a few lines in a couple of files!
+We go through the exact steps of creating a website in the below sections.
 
 
 ## Table of Contents -
@@ -41,7 +35,10 @@ We go through the exact steps of creating a website here. Join me as I create an
 6. [Create Posts](./book/create-edit-posts.md)
 
 
----
-[Home](./README.md)
+Do a [Ctrl + Click] on the links to stay on this page. There are no other navigation links in the pages.
 
-[ Next >> ](./book/preface.md)
+This book was started by Prashanth Krishnamurthy [@techformist](https://twitter.com/techformist), but stands on the good work of many. Full list of contributors at: https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors
+
+
+
+---

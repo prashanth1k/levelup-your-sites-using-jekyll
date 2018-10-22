@@ -48,3 +48,7 @@ We will go over the first two options in brief, but I recommend you to continue 
 If you don't mind spending $1 to ~$10 per year, you can get any GitHub account and get started. The name in GitHub does not matter because you will point your chosen domain name to the GitHub repository.
 
 I recommend [Name Silo](http://bit.ly/get-good-domains)(aff) to buy domains since they are priced well (= cheap), and provide decent support.
+
+
+
+---
