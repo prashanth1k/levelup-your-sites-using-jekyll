@@ -1,5 +1,4 @@
 # Add Blog Functionality
-
 What have we done so far -
 
 1. Created a site
@@ -57,10 +56,10 @@ You can change themes, fonts, moderate comments, and do more on the Disqus Admin
 You could also enable Facebook comments in a similar way to that of Disqus, but is requires a few more steps.
 
 1. Go to https://developers.facebook.com/. Login with your Facebook id and password
-   
-   ![Facebook App for Comments](resources\images\facebook-body-translation.jpg)
-
 2. Click on __My Apps__ at the top-right corner. Select __Add new app__.
+   
+   ![Facebook App for Comments](resources\images\facebook-add-new-app.jpg)
+   
 3. Copy the __APP ID__ displayed at the top of the page. 
 4. You will see a Status__ toggle to the top-right corner. Toggle it to ready for production (follow instructions to set your privacy policy if prompted)
    

@@ -1,8 +1,7 @@
 # Introduction
-
 Jekyll is the hero of this book. We will see how your websites or blogs can be quickly created and customized in Jekyll.
 
-This book is intended for a semi-technical / non-technical audience. I am expecting people to have minimal or zero coding to get started and complete this book. Of course, this book is also a practical introduction - follow along to crteate your own beautiful blog or website.
+This book is intended for a semi-technical / non-technical audience. I am expecting people to have minimal or zero coding to get started and complete this book. Of course, this book is also a practical introduction - follow along to create your own beautiful blog or website.
 
 I will be primarily referring to Windows platform since that is the only operating system I am using right now. Feel free to contribute any updates for other systems on [GitHub](https://github.com/prashanth1k/levelup-your-sites-using-jekyll).
 
@@ -27,7 +26,7 @@ You may find it difficult to do the following using a static website -
 
 When you are using GitHub to host sites, note that -
 
- - GitHub allows you limited Jekyll plugins that can extend your site functions https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+ - GitHub allows you limited Jekyll plugins that can extend your site functions.Refer [this page for details](https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/)
  - GitHub repository has 1 GB limit. Your websites cannot grow beyond this limit. This is a lot of space, but images and videos can eat space like a hungry gorilla. Don't consider GitHub if you are building the next YouTube for Everyone.
 
 You will use Markdown to type content for Jekyll. It is not as simple as MS Word, but I promise this - once you got hold of writing in markdown in all of 30 min, you would never want to go back.

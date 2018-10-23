@@ -13,7 +13,7 @@ Logon to SiteLeaf. Head over to __Posts__ on the left hand-side navigation bar.
 
 You will see existing posts on your site. Click on __New Post__ button at the top to create new post. In addition to the content, update a category and a tag against the post.
 
-![Create/Edit Posts(resources\images\siteleaf-edit-posts.jpg)
+![Create/Edit Posts](resources\images\siteleaf-edit-posts.jpg)
 
 Categories are high-level categorisation of your website posts. e.g. Thoughts, Announcements, Games, Philosophy. Tags are specific, micro-level details in the post. For e.g. new-employee, idea, nihilism, Skyrim V.
 
@@ -40,7 +40,6 @@ By now you have a full-fledged website with your own pages and posts! Congratula
 ## Homework: Create 100 posts in 100 days
 
 No kidding. That will make you the greatest blogger in your neighbourhood.
-
 
 
 

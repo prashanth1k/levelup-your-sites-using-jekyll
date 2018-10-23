@@ -3,7 +3,7 @@ set BUILD=%PUB_DIR%build\
 set CONTENT_DIR=%PUB_DIR%..\
 
 set TITLE=title.txt
-set TOC=--toc --toc-depth=1
+set TOC=--toc --toc-depth=2
 set COVER_IMAGE=cover.jpg
 set STYLESHEET=stylesheet.css
 set LATEX_CLASS=report
@@ -18,6 +18,6 @@ mkdir %BUILD%
 cd %CONTENT_DIR%
 pandoc -o %BUILD%%BOOKNAME%.epub %PUB_DIR%%TITLE% %CHAPTERS% %TOC% --epub-metadata=%PUB_DIR%%METADATA% --epub-cover-image=%PUB_DIR%%COVER_IMAGE%  --css=%PUB_DIR%stylesheet.css
 
-pandoc -o %BUILD%%BOOKNAME%.pdf %PUB_DIR%%TITLE% %CHAPTERS% %TOC% -t latex -V documentclass=%LATEX_CLASS% 
+pandoc -o %BUILD%%BOOKNAME%.pdf %PUB_DIR%%TITLE% %CHAPTERS% %TOC% -t latex -V documentclass=%LATEX_CLASS%
 
 cd %PUB_DIR%
