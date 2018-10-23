@@ -9,6 +9,7 @@ Head over to [GitHub](https://github.com/).
 
 
 Fill up three fields, and hit sign up.
+
  - __Username:__ preferably, choose the user name same as the website name. For example: if you want your website to be at "https://techformist.github.io", you want to create the account as "techformist". This is important if you are going to have a website address like "techformist.github.io". If you don't mind getting your own domain, you can fancy any name here.
  - __Email:__ your email
  - __Password:__ password123
@@ -37,6 +38,7 @@ Do take note though - others can see your website, copy it and make modification
 You will be using resources to "legally copy" website themes yourself, and hopefully, you will see similar satisfaction in others copying your website design.
 
 You can "hide" your underlying site in three major ways-
+
  - Create content in some other private folder (e.g. BitBucket, a service similar to GitHub) and use services like [Netlify](https://netlify.com) to generate your websites
  - Install a development environment on your local computer. Generate content yourself, and get GitHub to host the generate content
  - Pay for [GitHub Developer account](https://github.com/pricing) ($7/mo - free for students). Make your content private and expose it only through your website!

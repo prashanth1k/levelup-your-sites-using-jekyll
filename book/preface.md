@@ -27,16 +27,18 @@ Let me make one point clear at the outset - I am not inventing anything said in 
 The book is available at these locations-
 
 * [GitHub](https://github.com/prashanth1k/levelup-your-sites-using-jekyll). You can copy any or all content from GitHub.
-* Download PDF/EMOBI version of the book on [Selz](https://selz.co/41h2dvHir). Appreciate your support.
+* Download PDF/EPUB version of the book on [Selz](https://selz.co/41h2dvHir). Appreciate your support.
 
 The book is and will be free till the end of universe. It is licensed under a Creative Commons Attribution 4.0 International License. 
 You can contribute and make the book your own at the Github link provided above.Know all contributors who have made this book invaluable at https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors.
 
 
 ## Get in Touch
-This book was started by Prashanth Krishnamurthy. However, it stands on the shoulders of giants including many contributors. Provide any feedback through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues). Drop in a line or two on Twitter(@techformist).
+This book was started by Prashanth Krishnamurthy. However, it stands on the shoulders of giants including people who created and maintain Jekyll, and contributors to this book - content or otherwise! 
 
-If this book has helped you, consider [buying the book on Selz](https://selz.co/41h2dvHir). Alternatively [feed me caffeine](https://ko-fi.com/prashanth).
+Create any issues or ask questions through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues). Drop in a line or two on Twitter(@techformist).
+
+If this book has helped you, consider [buying the book on Selz](https://selz.co/41h2dvHir) - you can set the value of the book! Alternatively: [feed me caffeine](https://ko-fi.com/prashanth).
 
 ![coffee](resources/images/coffee.jpg)
 

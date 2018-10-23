@@ -10,7 +10,7 @@ set LATEX_CLASS=report
 set METADATA=metadata.xml
 
 set BOOKNAME=Levelup-your-Websites-using-Jekyll
-set CHAPTERS=preface.md introduction.md setup.md create-website.md create-pages.md create-edit-posts.md
+set CHAPTERS=preface.md introduction.md setup.md create-website.md create-pages.md create-edit-posts.md add-functionality.md interesting-topics.md
 
 if exist %BUILD% rd /s /q %BUILD%
 mkdir %BUILD%

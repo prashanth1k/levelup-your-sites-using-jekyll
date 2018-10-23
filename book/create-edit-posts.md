@@ -24,7 +24,9 @@ There are no hard rules on what should constitute your categories and tags. Crea
 
 We now get to another difficult topic at hand. Editing posts.
 
-Oh, who am I kidding - you would have already edited more than few posts by now. Just continue doing what you are doing. Play around with -
+Oh, who am I kidding - you would have already edited more than few posts by now. Just continue doing what you are doing. 
+
+Play around with -
 
 1. How to create images in the posts, what can you do to show posts with 'feature' images
 2. Time-travel by changing the dates on the posts
@@ -32,10 +34,12 @@ Oh, who am I kidding - you would have already edited more than few posts by now.
 
 Feel free to delete the sample posts that came with the theme.
 
+By now you have a full-fledged website with your own pages and posts! Congratulations! Don't forget to tweet at @techformist with your brand new website.
+
 
 ## Homework: Create 100 posts in 100 days
 
-No kidding. That will make you the greatest Blogger in your neighbourhood.
+No kidding. That will make you the greatest blogger in your neighbourhood.
 
 
 

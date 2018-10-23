@@ -7,9 +7,7 @@ Pages in a Blog refer to content that is static - does not change over weeks, mo
 
 You **can** do the editing of the page in GitHub just like before. You go to your repository (e.g. https://github.com/somethingawesome123?tab=repositories), select the file, select pencil icon, edit content, and save.
 
-If you have not noticed, the editor in GitHub is not quite made for content editing.
-
-Fortunately, there are few options to make your life easier.
+If you have not noticed, the editor in GitHub is not quite made for content editing. Fortunately, there are few options to make your life easier.
 
 
 ## 1. SiteLeaf
@@ -81,13 +79,12 @@ In all these cases, you will be using Markdown to create/edit content. I took ar
 Markdown enables you to -
 1. Type away without worrying about formatting - you are assured of standard formatting
 2. Easier creation of content. No worries about using the mouse every other word to make it bold. All you need to do is a double star (**bold**)
-3. For quick tips on Markdown, head over to https://guides.github.com/features/mastering-markdown/ 
+3. For quick tips on Markdown, head over to http://www.markdowntutorial.com/ and https://guides.github.com/features/mastering-markdown/ 
 
 
 ## Homework: Create a 'Books I Read' Page
 
 Now that you are awesome in creating new pages, may I kindly suggest to add a 'Books I Read' page. Just like before, create the page, fill the content, and add the link to the page in the navbar.
-
 
 
 

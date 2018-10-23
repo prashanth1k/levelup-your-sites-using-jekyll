@@ -8,9 +8,11 @@ I will be primarily referring to Windows platform since that is the only operati
 
 
 ## Why should I use Jekyll?
- - Free to develop
+
+ - Free to use the platform to develop beautiful websites
  - Free to host on world class platforms
  - Ability to scale for hundreds or thousands of users without additional money or effort
+ - Easy to learn without having to get into coding quagmire
 
 
 ## What is the catch?
@@ -18,16 +20,21 @@ Static is Jekyll's middle name if indeed it had one.
 Websites built by Jekyll may have functionality like blog posts, pages, images, video, user comments (through plugins), contact forms(plugins again) etc. but they are largely static. You will decide on the content, and include everything (almost) during creation.
 
 You may find it difficult to do the following using a static website -
+
  - Enable a website where users can register themselves and login for additional content (e.g. membership sites)
  - Collect complex information from users, store and process that information
  - Do complex processing to show content dynamically based on various attributes (e.g. country, clicking on your ads to land on the website)
+
+When you are using GitHub to host sites, note that -
+
+ - GitHub allows you limited Jekyll plugins that can extend your site functions https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+ - GitHub repository has 1 GB limit. Your websites cannot grow beyond this limit. This is a lot of space, but images and videos can eat space like a hungry gorilla. Don't consider GitHub if you are building the next YouTube for Everyone.
 
 You will use Markdown to type content for Jekyll. It is not as simple as MS Word, but I promise this - once you got hold of writing in markdown in all of 30 min, you would never want to go back.
 
 
 ## What are my alternatives?
-There are many.
-If you are sold to static sites, you may want to consider -
+There are many. If you are sold to static sites, you may want to consider -
 
  - [Gatsby](https://www.gatsbyjs.org/): ReactJS based framework. Somewhat more technical.
  - [Hugo](https://gohugo.io/): Uses Go to create static sites. Has clear, easy-to-follow steps like Jekyll but would need you to generate sites on your computer (or a server) for later uploads.
