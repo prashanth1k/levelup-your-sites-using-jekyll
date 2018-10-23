@@ -27,7 +27,7 @@ Let me make one point clear at the outset - I am not inventing anything said in 
 The book is available at these locations-
 
 * [GitHub](https://github.com/prashanth1k/levelup-your-sites-using-jekyll). You can copy any or all content from GitHub.
-* Download PDF/EPUB version of the book on [Selz](https://selz.co/41h2dvHir). Appreciate your support.
+* Download PDF/EPUB version of the book [for free](https://payhip.com/b/jse0). Appreciate your support.
 
 The book is and will be free till the end of universe. It is licensed under a Creative Commons Attribution 4.0 International License. 
 You can contribute and make the book your own at the Github link provided above.Know all contributors who have made this book invaluable at https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors.
@@ -38,7 +38,7 @@ This book was started by Prashanth Krishnamurthy. However, it stands on the shou
 
 Create any issues or ask questions through [GitHub site](https://github.com/prashanth1k/levelup-your-websites-using-jekyll/issues). Drop in a line or two on Twitter(@techformist).
 
-If this book has helped you, consider [buying the book on Selz](https://selz.co/41h2dvHir) - you can set the value of the book! Alternatively: [feed me caffeine](https://ko-fi.com/prashanth).
+If this book has helped you, consider [buying the book](https://payhip.com/b/jse0) - set any value starting from zero! Alternatively: [feed me caffeine](https://ko-fi.com/prashanth).
 
 ![coffee](resources/images/coffee.jpg)
 

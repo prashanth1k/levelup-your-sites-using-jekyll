@@ -33,11 +33,15 @@ We go through the exact steps of creating a website in the below sections.
 4. [Create Website](./book/create-website.md)
 5. [Create Pages](./book/create-pages.md)
 6. [Create Posts](./book/create-edit-posts.md)
+7. [Add Blog Functionality](./add-functionality.md)
+8. [Additional Interesting Topics](./interesting-topics.md)
 
 
 Do a [Ctrl + Click] on the links to stay on this page. There are no other navigation links in the pages.
 
-This book was started by Prashanth Krishnamurthy [@techformist](https://twitter.com/techformist), but stands on the good work of many. Full list of contributors at: https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors
+This book was started by Prashanth Krishnamurthy [@techformist](https://twitter.com/techformist), but stands on the good work of many. Full list of contributors at: https://github.com/prashanth1k/levelup-your-websites-using-jekyll/graphs/contributors.
+
+Get a PDF version of this book for free [here](https://payhip.com/b/jse0).
 
 
 
